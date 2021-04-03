@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\CubicEquation\CubicEquation\bin\Debug\netcoreapp3.1\CubicEquation.exe
+C:\Users\hp\source\repos\CubicEquation\CubicEquation\bin\Debug\netcoreapp3.1\CubicEquation.deps.json
+C:\Users\hp\source\repos\CubicEquation\CubicEquation\bin\Debug\netcoreapp3.1\CubicEquation.runtimeconfig.json
+C:\Users\hp\source\repos\CubicEquation\CubicEquation\bin\Debug\netcoreapp3.1\CubicEquation.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CubicEquation\CubicEquation\bin\Debug\netcoreapp3.1\CubicEquation.dll
+C:\Users\hp\source\repos\CubicEquation\CubicEquation\bin\Debug\netcoreapp3.1\CubicEquation.pdb
+C:\Users\hp\source\repos\CubicEquation\CubicEquation\obj\Debug\netcoreapp3.1\CubicEquation.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CubicEquation\CubicEquation\obj\Debug\netcoreapp3.1\CubicEquation.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CubicEquation\CubicEquation\obj\Debug\netcoreapp3.1\CubicEquation.AssemblyInfo.cs
+C:\Users\hp\source\repos\CubicEquation\CubicEquation\obj\Debug\netcoreapp3.1\CubicEquation.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CubicEquation\CubicEquation\obj\Debug\netcoreapp3.1\CubicEquation.dll
+C:\Users\hp\source\repos\CubicEquation\CubicEquation\obj\Debug\netcoreapp3.1\CubicEquation.pdb
+C:\Users\hp\source\repos\CubicEquation\CubicEquation\obj\Debug\netcoreapp3.1\CubicEquation.genruntimeconfig.cache
