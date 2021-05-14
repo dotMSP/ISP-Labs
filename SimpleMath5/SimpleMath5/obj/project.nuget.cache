@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1XT7HtYrqxxtlWqCBMikLf+9HBuHB6nxG4VAeHT3QOPa3DkIKe5Xtz0DenHyqT6xWAF5fjsPuitZKqqxckb09w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\source\\repos\\SimpleMath5\\SimpleMath5\\SimpleMath5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
