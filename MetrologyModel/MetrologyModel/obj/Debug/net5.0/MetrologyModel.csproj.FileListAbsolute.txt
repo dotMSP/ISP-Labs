@@ -1,0 +1,16 @@
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\bin\Debug\net5.0\MetrologyModel.exe
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\bin\Debug\net5.0\MetrologyModel.deps.json
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\bin\Debug\net5.0\MetrologyModel.runtimeconfig.json
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\bin\Debug\net5.0\MetrologyModel.runtimeconfig.dev.json
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\bin\Debug\net5.0\MetrologyModel.dll
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\bin\Debug\net5.0\ref\MetrologyModel.dll
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\bin\Debug\net5.0\MetrologyModel.pdb
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\obj\Debug\net5.0\MetrologyModel.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\obj\Debug\net5.0\MetrologyModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\obj\Debug\net5.0\MetrologyModel.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\obj\Debug\net5.0\MetrologyModel.AssemblyInfo.cs
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\obj\Debug\net5.0\MetrologyModel.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\obj\Debug\net5.0\MetrologyModel.dll
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\obj\Debug\net5.0\ref\MetrologyModel.dll
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\obj\Debug\net5.0\MetrologyModel.pdb
+C:\Users\andre\source\repos\MetrologyModel\MetrologyModel\obj\Debug\net5.0\MetrologyModel.genruntimeconfig.cache
